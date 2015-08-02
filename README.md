@@ -13,7 +13,8 @@ This small program will append all pdf files in a folder and append them into on
 
 #### usage 
 
-- in the directory in which the app.py reside, from command line run "python app.py <your-dir>"
-- that's it
+- In the directory in which the app.py reside, from command line run "python app.py [your-dir]"
+- Where your-dir is the directory in which all the pdfs reside
+- That's it
 
 Copyright 2015 Sabda PS
